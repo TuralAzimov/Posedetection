@@ -1,2 +1,2 @@
-# Posedetection
- This was a semester project for our Cmputer Projects class
+# posedetection
+ Pose classification and repetition counter for 6 different exercises.
